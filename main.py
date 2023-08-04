@@ -1,5 +1,4 @@
 import sys
-import time
 import codecs
 
 from selenium import webdriver
